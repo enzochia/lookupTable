@@ -1,0 +1,7 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^packrat/
+^\.Rprofile$
+^revdep$
+^README\.Rmd$
+^README-.*\.png$
